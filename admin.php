@@ -4,6 +4,7 @@ defined('YII_ENV') or define('YII_ENV', 'dev');
 //defined('YII_ENABLE_ERROR_HANDLER') or define('YII_ENABLE_ERROR_HANDLER', false);
 
 require(__DIR__ . '/vendor/autoload.php');
+require(__DIR__ . '/env.php');
 require(__DIR__ . '/vendor/yiisoft/yii2/Yii.php');
 require(__DIR__ . '/common/config/bootstrap.php');
 require(__DIR__ . '/backend/config/bootstrap.php');

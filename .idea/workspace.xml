@@ -2,13 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="354875d6-8fb0-45cb-8af0-dabfd37aa4d6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/console/controllers/HelloController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yii" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/config/main.php" afterPath="$PROJECT_DIR$/common/config/main.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/console/config/main.php" afterPath="$PROJECT_DIR$/console/config/main.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2dd689df3.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2ddb50982.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2de8a4ed6.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2ded64736.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2df176a8a.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2df564080.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2df94d8a4.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2dfca7abb.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2dff52934.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2e0348c25.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2e0d75906.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2e0fd4495.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2e2434947.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2e287abf4.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2e3126322.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2e34377ca.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2e38233ee.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2e3ba13c0.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2e44bbfef.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2e4701aa9.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2e4b6f0de.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2e4e7a31d.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2e51a74f9.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2e5e57ad2.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2fe43acd7.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2febbe255.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c2feff1a8f.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c30013c016.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c302cd1c35.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c3031dde04.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c303402c5c.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c30400e3fc.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c304791cbe.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c30562c372.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c3058693bc.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c305f27c9a.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c3069596c9.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c306e17a60.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c30bf17a11.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c30d6918ac.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c30d979810.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c30ede80f9.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c30f27e2a7.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598c30f4c73ca.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598d1e443a45f.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598d1e4918ff1.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598d1e527ddb3.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598d1e821c0b9.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598d20836e0a1.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598d20886e0ff.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/598d208c98234.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/debug/index.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/runtime/logs/app.log" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bower/jquery.inputmask" afterPath="$PROJECT_DIR$/vendor/bower/jquery.inputmask" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.env" afterPath="$PROJECT_DIR$/.env" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin.php" afterPath="$PROJECT_DIR$/admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/statics/themes/admin/views/index/index.php" afterPath="$PROJECT_DIR$/statics/themes/admin/views/index/index.php" />
     </list>
     <ignored path="yii2-admin.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,21 +92,91 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/config/main.php">
+      <file leaf-file-name=".env" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-180">
+            <state relative-caret-position="45">
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/config/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/statics/themes/default/views/layouts/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/common/config/main.php">
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/statics/themes/admin/views/layouts/main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-285">
-              <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+            <state relative-caret-position="-375">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/statics/themes/admin/views/index/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="init.bat" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/init.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_form.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/statics/themes/admin/views/admin/_form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-105">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -77,8 +199,11 @@
         <option value="$PROJECT_DIR$/yii" />
         <option value="$PROJECT_DIR$/vendor/composer/installed.json" />
         <option value="$PROJECT_DIR$/env.php" />
-        <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/common/config/main.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/admin.php" />
+        <option value="$PROJECT_DIR$/statics/themes/admin/views/index/index.php" />
       </list>
     </option>
   </component>
@@ -90,7 +215,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="387" />
+    <option name="x" value="150" />
     <option name="y" value="30" />
     <option name="width" value="1093" />
     <option name="height" value="709" />
@@ -137,6 +262,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="yii2-admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yii2-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yii2-admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storage" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -202,15 +341,15 @@
       <option name="presentableId" value="Default" />
       <updated>1502357110739</updated>
       <workItem from="1502357113779" duration="4447000" />
-      <workItem from="1502417618681" duration="4760000" />
+      <workItem from="1502417618681" duration="6503000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9207000" />
+    <option name="totallyTimeSpent" value="10950000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="387" y="30" width="1093" height="709" extended-state="0" />
+    <frame x="150" y="30" width="1093" height="709" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30352047" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -242,67 +381,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/yii">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yii2-admin.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="385" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/controllers/IndexController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/controllers/DatabaseController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-58">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/controllers/BaseController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-718">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/models/Menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="85" column="15" selection-start-line="85" selection-start-column="15" selection-end-line="85" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yii.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="12" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -513,26 +595,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/yii">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/controllers/AdminController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-195">
-          <caret line="102" column="51" selection-start-line="102" selection-start-column="51" selection-end-line="102" selection-end-column="51" />
           <folding />
         </state>
       </provider>
@@ -593,15 +659,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/env.php">
+    <entry file="file://$PROJECT_DIR$/backend/config/bootstrap.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/config/bootstrap.php">
+    <entry file="file://$PROJECT_DIR$/backend/controllers/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="102" column="51" selection-start-line="102" selection-start-column="51" selection-end-line="102" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/statics/themes/admin/views/admin/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-345">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/config/main.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -617,9 +699,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/config/main.php">
+    <entry file="file://$PROJECT_DIR$/statics/themes/admin/views/admin/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-180">
+        <state relative-caret-position="857">
+          <caret line="66" column="19" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/statics/themes/admin/views/admin/_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -628,15 +718,71 @@
     <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="12" />
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/env.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/common/config/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-285">
-          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+        <state relative-caret-position="120">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/statics/themes/default/views/layouts/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/statics/themes/admin/views/layouts/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-375">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/statics/themes/admin/views/index/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
